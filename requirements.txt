@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn
+colorlog
+requests
+scipy
+python-dotenv
